@@ -1,0 +1,40 @@
+===============================
+twitteramazon
+===============================
+
+
+.. image:: https://img.shields.io/pypi/v/twitteramazonslug.svg
+        :target: https://pypi.python.org/pypi/twitteramazonslug
+
+.. image:: https://img.shields.io/travis/oussemamzoughi/twitteramazonslug.svg
+        :target: https://travis-ci.org/oussemamzoughi/twitteramazonslug
+
+.. image:: https://readthedocs.org/projects/twitteramazonslug/badge/?version=latest
+        :target: https://twitteramazonslug.readthedocs.io/en/latest/?badge=latest
+        :alt: Documentation Status
+
+.. image:: https://pyup.io/repos/github/oussemamzoughi/twitteramazonslug/shield.svg
+     :target: https://pyup.io/repos/github/oussemamzoughi/twitteramazonslug/
+     :alt: Updates
+
+
+its a project about twitter streams and amazon services
+
+
+* Free software: GNU General Public License v3
+* Documentation: https://github.com/oussemamzoughi/twitteramazonslug/blob/master/DOCSystemIntegration%20(1).pdf
+
+
+Features
+--------
+
+* TODO
+
+Credits
+---------
+
+This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypackage`_ project template.
+
+.. _Cookiecutter: https://github.com/audreyr/cookiecutter
+.. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
+
